@@ -12,8 +12,8 @@ Hover effects and transitions for interactivity
 Mobile-friendly design
 
 Technologies Used
-HTML5 – for structuring the content
-CSS3 – for styling and layout
+HTML – for structuring the content
+CSS – for styling and layout
 No frameworks or libraries used — built from scratch for learning purposes
 
 Purpose
