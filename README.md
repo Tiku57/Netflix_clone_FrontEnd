@@ -1,23 +1,40 @@
-# Netflix_clone_FrontEnd
+# Netflix Frontend Clone 🎬
 
-Netflix Frontend Clone
-A visually accurate clone of the Netflix homepage built using only HTML and CSS. This project focuses on replicating the look and feel of Netflix's landing page to practice and demonstrate frontend development skills including responsive design, layout structuring, and styling.
+This project is a responsive frontend clone of the Netflix landing page, built using **HTML** and **CSS**. It replicates the look and feel of the original Netflix homepage, focusing on layout, styling, and responsiveness.
 
-Features
-Fully responsive Netflix homepage layout
-Clean and modern UI using Flexbox and Grid
-Custom navigation bar and hero section
-Sectioned layout for content previews
-Hover effects and transitions for interactivity
-Mobile-friendly design
+## 📸 Preview
 
-Technologies Used
-HTML – for structuring the content
-CSS – for styling and layout
-No frameworks or libraries used — built from scratch for learning purposes
+![Netflix Clone Screenshot](preview.png)  
+*(Add your own screenshot image named `preview.png` in the project folder)*
 
-Purpose
-This project was built as part of my learning journey to strengthen frontend skills by recreating real-world interfaces. It reflects my attention to design detail and ability to translate UI into code using only HTML and CSS.
+## 🛠️ Tech Stack
 
+- **HTML5** – Semantic structure and layout
+- **CSS3** – Styling and responsive design
+- **Font Awesome / Icons (optional)** – For adding visual elements
+
+## 🚀 Features
+
+- Netflix-like homepage design
+- Responsive layout for desktop and mobile
+- Styled navigation bar and hero section
+- Custom fonts, colors, and background image
+- Call-to-action buttons
+
+
+## 📦 How to Run
+
+1. Clone the repository or download the project.
+2. Open `index.html` in any browser.
+
+## 📌 Note
+
+This project is **only for educational purposes** and not affiliated with or endorsed by Netflix.
+
+## 📧 Contact
+
+For any queries or suggestions, feel free to reach out at aadityasattawan@gmail.com.
+
+---
 Author
 Aaditya Sattawan
