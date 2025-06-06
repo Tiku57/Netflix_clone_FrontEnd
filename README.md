@@ -6,7 +6,6 @@ This project is a responsive frontend clone of the Netflix landing page, built u
 
 - **HTML** – Semantic structure and layout
 - **CSS** – Styling and responsive design
-- **Font Awesome / Icons ** – For adding visual elements
 
 ## 🚀 Features
 
