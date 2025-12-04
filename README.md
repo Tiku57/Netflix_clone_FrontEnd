@@ -10,11 +10,6 @@ This project replicates the look and feel of the official Netflix homepage, incl
 
 ---
 
-## 📸 Preview  
-*(Add screenshot here if needed)*
-
----
-
 ## 🛠️ Technologies Used  
 - **HTML5**  
 - **CSS3**  
@@ -37,5 +32,4 @@ This project replicates the look and feel of the official Netflix homepage, incl
 👨‍💻 Author
 
 Aaditya Sattawan
-🔗 GitHub: https://github.com/Tiku57
 
