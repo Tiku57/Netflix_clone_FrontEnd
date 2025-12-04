@@ -6,7 +6,7 @@ This project replicates the look and feel of the official Netflix homepage, incl
 ---
 
 ## 🚀 Live Demo  
-👉 *Add your Vercel link here after deployment*
+👉 *(https://netflix-clone-front-end-umber.vercel.app/)*
 
 ---
 
